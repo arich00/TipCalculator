@@ -19,7 +19,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/9Fhj677"><a href="//imgur.com/9Fhj677">TipCalculator Demo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/a/9Fhj677' title='TipCalculator Demo' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
