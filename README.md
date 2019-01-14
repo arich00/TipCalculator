@@ -19,7 +19,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-<a href="https://imgur.com/a/9Fhj677"><img src='http://i.imgur.com/a/9Fhj677.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://imgur.com/a/9Fhj677"><img src='http://i.imgur.com/a/9Fhj677.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
